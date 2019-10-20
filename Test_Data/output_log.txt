@@ -1,0 +1,271 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4059 MB
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.031 seconds
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+0x00007FF6512F57A4 (Test) 
+0x00007FF6512F8CDF (Test) 
+0x00007FF65152C49D (Test) 
+0x00007FF6517975C8 (Test) 
+0x00007FF651797A1C (Test) 
+0x00007FF651318896 (Test) 
+0x00007FF65131A69C (Test) 
+0x00007FF65131B0A6 (Test) 
+0x00007FF65131BBF7 (Test) 
+0x00007FF65133071E (Test) 
+0x00007FF65232B490 (Test) 
+0x00007FFEBEC58102 (KERNEL32) BaseThreadInitThunk
+0x00007FFEC0FBC5B4 (ntdll) RtlUserThreadStart
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.910230 ms
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4059 MB
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.024 seconds
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+0x00007FF6512F57A4 (Test) 
+0x00007FF6512F8CDF (Test) 
+0x00007FF65152C49D (Test) 
+0x00007FF6517975C8 (Test) 
+0x00007FF651797A1C (Test) 
+0x00007FF651318896 (Test) 
+0x00007FF65131A69C (Test) 
+0x00007FF65131B0A6 (Test) 
+0x00007FF65131BBF7 (Test) 
+0x00007FF65133071E (Test) 
+0x00007FF65232B490 (Test) 
+0x00007FFEBEC58102 (KERNEL32) BaseThreadInitThunk
+0x00007FFEC0FBC5B4 (ntdll) RtlUserThreadStart
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4059 MB
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.026 seconds
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+0x00007FF6512F57A4 (Test) 
+0x00007FF6512F8CDF (Test) 
+0x00007FF65152C49D (Test) 
+0x00007FF6517975C8 (Test) 
+0x00007FF651797A1C (Test) 
+0x00007FF651318896 (Test) 
+0x00007FF65131A69C (Test) 
+0x00007FF65131B0A6 (Test) 
+0x00007FF65131BBF7 (Test) 
+0x00007FF65133071E (Test) 
+0x00007FF65232B490 (Test) 
+0x00007FFEBEC58102 (KERNEL32) BaseThreadInitThunk
+0x00007FFEC0FBC5B4 (ntdll) RtlUserThreadStart
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.810028 ms
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4059 MB
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Test_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.028 seconds
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+
+0x00007FF6512F57A4 (Test) 
+0x00007FF6512F8CDF (Test) 
+0x00007FF65152C49D (Test) 
+0x00007FF6517975C8 (Test) 
+0x00007FF651797A1C (Test) 
+0x00007FF651318896 (Test) 
+0x00007FF65131A69C (Test) 
+0x00007FF65131B0A6 (Test) 
+0x00007FF65131BBF7 (Test) 
+0x00007FF65133071E (Test) 
+0x00007FF65232B490 (Test) 
+0x00007FFEBEC58102 (KERNEL32) BaseThreadInitThunk
+0x00007FFEC0FBC5B4 (ntdll) RtlUserThreadStart
+ 
+(Filename:  Line: 54)
+
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.831604 ms
+UnloadTime: 0.939852 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1ec8 -> priority: 1 
+  Thread -> id: 58e0 -> priority: 1 
+  Thread -> id: 1024 -> priority: 1 
+  Thread -> id: 6098 -> priority: 1 
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 66b8 -> priority: 1 
+  Thread -> id: 13dc -> priority: 1 
+  Thread -> id: 4164 -> priority: 1 
+  Thread -> id: 5428 -> priority: 1 
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 5b4c -> priority: 1 
+  Thread -> id: 451c -> priority: 1 
+  Thread -> id: 64fc -> priority: 1 
+  Thread -> id: 5dfc -> priority: 1 
+Log: connection {2} has been disconnected by timeout; address {::ffff:127.0.0.1:51441} time {40891}, last rec time {38882} rtt {12} timeout {2000}
+ServerDisconnected due to error: Timeout
+0x00007FF6512F57A4 (Test) 
+0x00007FF6512F8CDF (Test) 
+0x00007FF65152C49D (Test) 
+0x00007FF6517975C8 (Test) 
+0x00007FF651797A1C (Test) 
+0x00007FF651B296F4 (Test) 
+0x0000000004D330F8 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x0000000004D32FFC (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x0000000004D32D6C (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x0000000004D32B1D (Mono JIT Code) UnityEngine.Debug:LogError (object)
+0x0000000004D2F045 (Mono JIT Code) UnityEngine.Networking.NetworkManager:OnServerDisconnect (UnityEngine.Networking.NetworkConnection)
+0x0000000004D2EF3C (Mono JIT Code) UnityEngine.Networking.NetworkManager:OnServerDisconnectInternal (UnityEngine.Networking.NetworkMessage)
+0x0000000004CFF939 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:InvokeHandler (int16,UnityEngine.Networking.NetworkReader,int)
+0x0000000004CFF7DC (Mono JIT Code) UnityEngine.Networking.NetworkConnection:InvokeHandlerNoData (int16)
+0x0000000004D2ECE9 (Mono JIT Code) UnityEngine.Networking.NetworkServer:OnDisconnected (UnityEngine.Networking.NetworkConnection)
+0x0000000004D2EC92 (Mono JIT Code) UnityEngine.Networking.NetworkServer/ServerSimpleWrapper:OnDisconnected (UnityEngine.Networking.NetworkConnection)
+0x0000000004D2E0E5 (Mono JIT Code) UnityEngine.Networking.NetworkServerSimple:HandleDisconnect (int,byte)
+0x0000000004D033A7 (Mono JIT Code) UnityEngine.Networking.NetworkServerSimple:Update ()
+0x0000000004D02EE7 (Mono JIT Code) UnityEngine.Networking.NetworkServer:InternalUpdate ()
+0x0000000004D02E90 (Mono JIT Code) UnityEngine.Networking.NetworkServer:Update ()
+0x0000000004D02DE5 (Mono JIT Code) UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate ()
+0x0000000004CB0483 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void (object,intptr,intptr,intptr)
+0x00007FFE85795B63 (mono) mono_set_defaults
+0x00007FFE856E872D (mono) mono_runtime_invoke
+0x00007FF6519702C4 (Test) 
+0x00007FF65196B54A (Test) 
+0x00007FF651829449 (Test) 
+0x00007FF6517BC371 (Test) 
+0x00007FF65131F55B (Test) 
+0x00007FF65131F70A (Test) 
+0x00007FF6513309E0 (Test) 
+0x00007FF65232B490 (Test) 
+0x00007FFEBEC58102 (KERNEL32) BaseThreadInitThunk
+0x00007FFEC0FBC5B4 (ntdll) RtlUserThreadStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 384c -> priority: 1 
+  Thread -> id: 5330 -> priority: 1 
+  Thread -> id: 3c18 -> priority: 1 
+  Thread -> id: 2bb8 -> priority: 1 

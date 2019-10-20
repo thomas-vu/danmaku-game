@@ -1,0 +1,397 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4059 MB
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.322 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+Direct3D:
+:  Direct3D 11.0 [level 11.1]
+Direct3D:
+r: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+ 11.0 [level 11.1]
+    Version:  Direct3D 11.0 [level 11.1]
+    VRAM:     4059 MB
+Force GTX 970 (ID=0x13c2)
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+.8233
+    Vendor:   NVIDIA
+    VRAM:     4059 MB
+    VRAM:     4059 MB
+8233
+    Driver:   22.21.13.8233
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween46.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.030 seconds
+Platform assembly: C:\Users\Thomas\Desktop\Danmaku!!\Danmaku!!_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.032 seconds
+<RI> Initializing input.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Input initialized.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+<RI> Initialized touch support.
+UnloadTime: 5.100072 ms
+UnloadTime: 0.907670 ms
+UnloadTime: 0.895237 ms
+UnloadTime: 1.170610 ms
+SyncList not initialized
+0x00007FF737B557A4 (Danmaku!!) 
+0x00007FF737B58CDF (Danmaku!!) 
+0x00007FF737D8C49D (Danmaku!!) 
+0x00007FF737FF75C8 (Danmaku!!) 
+0x00007FF737FF7A1C (Danmaku!!) 
+0x00007FF7383896F4 (Danmaku!!) 
+0x000000000560E748 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x000000000560E64C (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x000000000560E3BC (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x000000000560E16D (Mono JIT Code) UnityEngine.Debug:LogError (object)
+0x000000000560DD8F (Mono JIT Code) UnityEngine.Networking.SyncList`1<MDCard>:SendMsg (UnityEngine.Networking.SyncList`1/Operation<MDCard>,int,MDCard)
+0x000000000560DCE7 (Mono JIT Code) UnityEngine.Networking.SyncList`1<MDCard>:SendMsg (UnityEngine.Networking.SyncList`1/Operation<MDCard>,int)
+0x000000000560DBB7 (Mono JIT Code) UnityEngine.Networking.SyncList`1<MDCard>:Clear ()
+0x000000000560DAA6 (Mono JIT Code) Unity.GeneratedNetworkCode:_ReadStructSyncListMDCard_None (UnityEngine.Networking.NetworkReader,SyncListMDCard)
+0x000000000560D9D5 (Mono JIT Code) MainDeck:OnDeserialize (UnityEngine.Networking.NetworkReader,bool)
+0x000000000560D7E4 (Mono JIT Code) UnityEngine.Networking.NetworkIdentity:OnUpdateVars (UnityEngine.Networking.NetworkReader,bool)
+0x000000000560D3E0 (Mono JIT Code) UnityEngine.Networking.ClientScene:ApplySpawnPayload (UnityEngine.Networking.NetworkIdentity,UnityEngine.Vector3,byte[],UnityEngine.Networking.NetworkInstanceId,UnityEngine.GameObject)
+0x000000000560BE3C (Mono JIT Code) UnityEngine.Networking.ClientScene:OnObjectSpawnScene (UnityEngine.Networking.NetworkMessage)
+0x00000000056071F1 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:HandleReader (UnityEngine.Networking.NetworkReader,int,int)
+0x0000000005606D43 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:HandleBytes (byte[],int,int)
+0x0000000005606C95 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:TransportReceive (byte[],int,int)
+0x00000000055FFD5E (Mono JIT Code) UnityEngine.Networking.NetworkClient:Update ()
+0x00000000055FF845 (Mono JIT Code) UnityEngine.Networking.NetworkClient:UpdateClients ()
+0x00000000055FF70A (Mono JIT Code) UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate ()
+0x00000000055A0483 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void (object,intptr,intptr,intptr)
+0x00007FFA22DD5B63 (mono) mono_set_defaults
+0x00007FFA22D2872D (mono) mono_runtime_invoke
+0x00007FF7381D02C4 (Danmaku!!) 
+0x00007FF7381CB54A (Danmaku!!) 
+0x00007FF738089449 (Danmaku!!) 
+0x00007FF73801C371 (Danmaku!!) 
+0x00007FF737B7F55B (Danmaku!!) 
+0x00007FF737B7F70A (Danmaku!!) 
+0x00007FF737B909E0 (Danmaku!!) 
+0x00007FF738B8B490 (Danmaku!!) 
+0x00007FFA3A5B8102 (KERNEL32) BaseThreadInitThunk
+0x00007FFA3BC6C5B4 (ntdll) RtlUserThreadStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SyncList not initialized
+0x00007FF737B557A4 (Danmaku!!) 
+0x00007FF737B58CDF (Danmaku!!) 
+0x00007FF737D8C49D (Danmaku!!) 
+0x00007FF737FF75C8 (Danmaku!!) 
+0x00007FF737FF7A1C (Danmaku!!) 
+0x00007FF7383896F4 (Danmaku!!) 
+0x0000000004C0EC98 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x0000000004C0EB9C (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x0000000004C0E90C (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x0000000004C0E6BD (Mono JIT Code) UnityEngine.Debug:LogError (object)
+0x0000000004C0E2DF (Mono JIT Code) UnityEngine.Networking.SyncList`1<MDCard>:SendMsg (UnityEngine.Networking.SyncList`1/Operation<MDCard>,int,MDCard)
+0x0000000004C0E237 (Mono JIT Code) UnityEngine.Networking.SyncList`1<MDCard>:SendMsg (UnityEngine.Networking.SyncList`1/Operation<MDCard>,int)
+0x0000000004C0E107 (Mono JIT Code) UnityEngine.Networking.SyncList`1<MDCard>:Clear ()
+0x0000000004C0DFF6 (Mono JIT Code) Unity.GeneratedNetworkCode:_ReadStructSyncListMDCard_None (UnityEngine.Networking.NetworkReader,SyncListMDCard)
+0x0000000004C0DF25 (Mono JIT Code) MainDeck:OnDeserialize (UnityEngine.Networking.NetworkReader,bool)
+0x0000000004C0DD34 (Mono JIT Code) UnityEngine.Networking.NetworkIdentity:OnUpdateVars (UnityEngine.Networking.NetworkReader,bool)
+0x0000000004C0D930 (Mono JIT Code) UnityEngine.Networking.ClientScene:ApplySpawnPayload (UnityEngine.Networking.NetworkIdentity,UnityEngine.Vector3,byte[],UnityEngine.Networking.NetworkInstanceId,UnityEngine.GameObject)
+0x0000000004C0C38C (Mono JIT Code) UnityEngine.Networking.ClientScene:OnObjectSpawnScene (UnityEngine.Networking.NetworkMessage)
+0x0000000004C071F1 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:HandleReader (UnityEngine.Networking.NetworkReader,int,int)
+0x0000000004C06D43 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:HandleBytes (byte[],int,int)
+0x0000000004C06C95 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:TransportReceive (byte[],int,int)
+0x0000000004BFFD5E (Mono JIT Code) UnityEngine.Networking.NetworkClient:Update ()
+0x0000000004BFF845 (Mono JIT Code) UnityEngine.Networking.NetworkClient:UpdateClients ()
+0x0000000004BFF70A (Mono JIT Code) UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate ()
+0x0000000004BA0483 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void (object,intptr,intptr,intptr)
+0x00007FFA22DD5B63 (mono) mono_set_defaults
+0x00007FFA22D2872D (mono) mono_runtime_invoke
+0x00007FF7381D02C4 (Danmaku!!) 
+0x00007FF7381CB54A (Danmaku!!) 
+0x00007FF738089449 (Danmaku!!) 
+0x00007FF73801C371 (Danmaku!!) 
+0x00007FF737B7F55B (Danmaku!!) 
+0x00007FF737B7F70A (Danmaku!!) 
+0x00007FF737B909E0 (Danmaku!!) 
+0x00007FF738B8B490 (Danmaku!!) 
+0x00007FFA3A5B8102 (KERNEL32) BaseThreadInitThunk
+0x00007FFA3BC6C5B4 (ntdll) RtlUserThreadStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SyncList not initialized
+0x00007FF737B557A4 (Danmaku!!) 
+0x00007FF737B58CDF (Danmaku!!) 
+0x00007FF737D8C49D (Danmaku!!) 
+0x00007FF737FF75C8 (Danmaku!!) 
+0x00007FF737FF7A1C (Danmaku!!) 
+0x00007FF7383896F4 (Danmaku!!) 
+0x00000000055BEC98 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x00000000055BEB9C (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x00000000055BE90C (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x00000000055BE6BD (Mono JIT Code) UnityEngine.Debug:LogError (object)
+0x00000000055BE2DF (Mono JIT Code) UnityEngine.Networking.SyncList`1<MDCard>:SendMsg (UnityEngine.Networking.SyncList`1/Operation<MDCard>,int,MDCard)
+0x00000000055BE237 (Mono JIT Code) UnityEngine.Networking.SyncList`1<MDCard>:SendMsg (UnityEngine.Networking.SyncList`1/Operation<MDCard>,int)
+0x00000000055BE107 (Mono JIT Code) UnityEngine.Networking.SyncList`1<MDCard>:Clear ()
+0x00000000055BDFF6 (Mono JIT Code) Unity.GeneratedNetworkCode:_ReadStructSyncListMDCard_None (UnityEngine.Networking.NetworkReader,SyncListMDCard)
+0x00000000055BDF25 (Mono JIT Code) MainDeck:OnDeserialize (UnityEngine.Networking.NetworkReader,bool)
+0x00000000055BDD34 (Mono JIT Code) UnityEngine.Networking.NetworkIdentity:OnUpdateVars (UnityEngine.Networking.NetworkReader,bool)
+0x00000000055BD930 (Mono JIT Code) UnityEngine.Networking.ClientScene:ApplySpawnPayload (UnityEngine.Networking.NetworkIdentity,UnityEngine.Vector3,byte[],UnityEngine.Networking.NetworkInstanceId,UnityEngine.GameObject)
+0x00000000055BC0EC (Mono JIT Code) UnityEngine.Networking.ClientScene:OnObjectSpawnScene (UnityEngine.Networking.NetworkMessage)
+0x00000000055B71F1 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:HandleReader (UnityEngine.Networking.NetworkReader,int,int)
+0x00000000055B6D43 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:HandleBytes (byte[],int,int)
+0x00000000055B6C95 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:TransportReceive (byte[],int,int)
+0x00000000055AFD5E (Mono JIT Code) UnityEngine.Networking.NetworkClient:Update ()
+0x00000000055AF845 (Mono JIT Code) UnityEngine.Networking.NetworkClient:UpdateClients ()
+0x00000000055AF70A (Mono JIT Code) UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate ()
+0x0000000005550483 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void (object,intptr,intptr,intptr)
+0x00007FFA22DD5B63 (mono) mono_set_defaults
+0x00007FFA22D2872D (mono) mono_runtime_invoke
+0x00007FF7381D02C4 (Danmaku!!) 
+0x00007FF7381CB54A (Danmaku!!) 
+0x00007FF738089449 (Danmaku!!) 
+0x00007FF73801C371 (Danmaku!!) 
+0x00007FF737B7F55B (Danmaku!!) 
+0x00007FF737B7F70A (Danmaku!!) 
+0x00007FF737B909E0 (Danmaku!!) 
+0x00007FF738B8B490 (Danmaku!!) 
+0x00007FFA3A5B8102 (KERNEL32) BaseThreadInitThunk
+0x00007FFA3BC6C5B4 (ntdll) RtlUserThreadStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ArgumentOutOfRangeException: Argument is out of range.
+Parameter name: index
+  at System.Collections.Generic.List`1[MDCard].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.SyncList`1[MDCard].get_Item (Int32 i) [0x00000] in <filename unknown>:0 
+  at MainDeck+<Draw>c__Iterator0.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1104 -> priority: 1 
+  Thread -> id: 251c -> priority: 1 
+  Thread -> id: 55c -> priority: 1 
+  Thread -> id: 1e44 -> priority: 1 
+Log: connection {3} has been disconnected by timeout; address {::ffff:127.0.0.1:63620} time {346936}, last rec time {344922} rtt {11} timeout {2000}
+ServerDisconnected due to error: Timeout
+0x00007FF737B557A4 (Danmaku!!) 
+0x00007FF737B58CDF (Danmaku!!) 
+0x00007FF737D8C49D (Danmaku!!) 
+0x00007FF737FF75C8 (Danmaku!!) 
+0x00007FF737FF7A1C (Danmaku!!) 
+0x00007FF7383896F4 (Danmaku!!) 
+0x0000000005460FB8 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x0000000005460EBC (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x0000000005460C2C (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x00000000054609DD (Mono JIT Code) UnityEngine.Debug:LogError (object)
+0x000000000545D595 (Mono JIT Code) UnityEngine.Networking.NetworkManager:OnServerDisconnect (UnityEngine.Networking.NetworkConnection)
+0x000000000545D48C (Mono JIT Code) UnityEngine.Networking.NetworkManager:OnServerDisconnectInternal (UnityEngine.Networking.NetworkMessage)
+0x0000000005415299 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:InvokeHandler (int16,UnityEngine.Networking.NetworkReader,int)
+0x000000000541513C (Mono JIT Code) UnityEngine.Networking.NetworkConnection:InvokeHandlerNoData (int16)
+0x000000000545D239 (Mono JIT Code) UnityEngine.Networking.NetworkServer:OnDisconnected (UnityEngine.Networking.NetworkConnection)
+0x000000000545D1E2 (Mono JIT Code) UnityEngine.Networking.NetworkServer/ServerSimpleWrapper:OnDisconnected (UnityEngine.Networking.NetworkConnection)
+0x000000000545C945 (Mono JIT Code) UnityEngine.Networking.NetworkServerSimple:HandleDisconnect (int,byte)
+0x000000000541DC37 (Mono JIT Code) UnityEngine.Networking.NetworkServerSimple:Update ()
+0x000000000541D777 (Mono JIT Code) UnityEngine.Networking.NetworkServer:InternalUpdate ()
+0x000000000541D720 (Mono JIT Code) UnityEngine.Networking.NetworkServer:Update ()
+0x000000000541D675 (Mono JIT Code) UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate ()
+0x00000000053B0483 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void (object,intptr,intptr,intptr)
+0x00007FFA22DD5B63 (mono) mono_set_defaults
+0x00007FFA22D2872D (mono) mono_runtime_invoke
+0x00007FF7381D02C4 (Danmaku!!) 
+0x00007FF7381CB54A (Danmaku!!) 
+0x00007FF738089449 (Danmaku!!) 
+0x00007FF73801C371 (Danmaku!!) 
+0x00007FF737B7F55B (Danmaku!!) 
+0x00007FF737B7F70A (Danmaku!!) 
+0x00007FF737B909E0 (Danmaku!!) 
+0x00007FF738B8B490 (Danmaku!!) 
+0x00007FFA3A5B8102 (KERNEL32) BaseThreadInitThunk
+0x00007FFA3BC6C5B4 (ntdll) RtlUserThreadStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 22ec -> priority: 1 
+  Thread -> id: 12f8 -> priority: 1 
+  Thread -> id: 25a0 -> priority: 1 
+  Thread -> id: 14d4 -> priority: 1 
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {350988}, last rec time {348494} rtt {11} timeout {2000}
+ClientDisconnected due to error: Timeout
+0x00007FF737B557A4 (Danmaku!!) 
+0x00007FF737B58CDF (Danmaku!!) 
+0x00007FF737D8C49D (Danmaku!!) 
+0x00007FF737FF75C8 (Danmaku!!) 
+0x00007FF737FF7A1C (Danmaku!!) 
+0x00007FF7383896F4 (Danmaku!!) 
+0x0000000004C0EC98 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x0000000004C0EB9C (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x0000000004C0E90C (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x0000000004C0E6BD (Mono JIT Code) UnityEngine.Debug:LogError (object)
+0x0000000004C37E66 (Mono JIT Code) UnityEngine.Networking.NetworkManager:OnClientDisconnect (UnityEngine.Networking.NetworkConnection)
+0x0000000004C37D1C (Mono JIT Code) UnityEngine.Networking.NetworkManager:OnClientDisconnectInternal (UnityEngine.Networking.NetworkMessage)
+0x0000000004C035B9 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:InvokeHandler (int16,UnityEngine.Networking.NetworkReader,int)
+0x0000000004C0345C (Mono JIT Code) UnityEngine.Networking.NetworkConnection:InvokeHandlerNoData (int16)
+0x0000000004BFFE14 (Mono JIT Code) UnityEngine.Networking.NetworkClient:Update ()
+0x0000000004BFF845 (Mono JIT Code) UnityEngine.Networking.NetworkClient:UpdateClients ()
+0x0000000004BFF70A (Mono JIT Code) UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate ()
+0x0000000004BA0483 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void (object,intptr,intptr,intptr)
+0x00007FFA22DD5B63 (mono) mono_set_defaults
+0x00007FFA22D2872D (mono) mono_runtime_invoke
+0x00007FF7381D02C4 (Danmaku!!) 
+0x00007FF7381CB54A (Danmaku!!) 
+0x00007FF738089449 (Danmaku!!) 
+0x00007FF73801C371 (Danmaku!!) 
+0x00007FF737B7F55B (Danmaku!!) 
+0x00007FF737B7F70A (Danmaku!!) 
+0x00007FF737B909E0 (Danmaku!!) 
+0x00007FF738B8B490 (Danmaku!!) 
+0x00007FFA3A5B8102 (KERNEL32) BaseThreadInitThunk
+0x00007FFA3BC6C5B4 (ntdll) RtlUserThreadStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777} time {351429}, last rec time {348937} rtt {13} timeout {2000}
+ClientDisconnected due to error: Timeout
+0x00007FF737B557A4 (Danmaku!!) 
+0x00007FF737B58CDF (Danmaku!!) 
+0x00007FF737D8C49D (Danmaku!!) 
+0x00007FF737FF75C8 (Danmaku!!) 
+0x00007FF737FF7A1C (Danmaku!!) 
+0x00007FF7383896F4 (Danmaku!!) 
+0x000000000560E748 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x000000000560E64C (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x000000000560E3BC (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x000000000560E16D (Mono JIT Code) UnityEngine.Debug:LogError (object)
+0x0000000005637E96 (Mono JIT Code) UnityEngine.Networking.NetworkManager:OnClientDisconnect (UnityEngine.Networking.NetworkConnection)
+0x0000000005637D4C (Mono JIT Code) UnityEngine.Networking.NetworkManager:OnClientDisconnectInternal (UnityEngine.Networking.NetworkMessage)
+0x00000000056035B9 (Mono JIT Code) UnityEngine.Networking.NetworkConnection:InvokeHandler (int16,UnityEngine.Networking.NetworkReader,int)
+0x000000000560345C (Mono JIT Code) UnityEngine.Networking.NetworkConnection:InvokeHandlerNoData (int16)
+0x00000000055FFE14 (Mono JIT Code) UnityEngine.Networking.NetworkClient:Update ()
+0x00000000055FF845 (Mono JIT Code) UnityEngine.Networking.NetworkClient:UpdateClients ()
+0x00000000055FF70A (Mono JIT Code) UnityEngine.Networking.NetworkIdentity:UNetStaticUpdate ()
+0x00000000055A0483 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void (object,intptr,intptr,intptr)
+0x00007FFA22DD5B63 (mono) mono_set_defaults
+0x00007FFA22D2872D (mono) mono_runtime_invoke
+0x00007FF7381D02C4 (Danmaku!!) 
+0x00007FF7381CB54A (Danmaku!!) 
+0x00007FF738089449 (Danmaku!!) 
+0x00007FF73801C371 (Danmaku!!) 
+0x00007FF737B7F55B (Danmaku!!) 
+0x00007FF737B7F70A (Danmaku!!) 
+0x00007FF737B909E0 (Danmaku!!) 
+0x00007FF738B8B490 (Danmaku!!) 
+0x00007FFA3A5B8102 (KERNEL32) BaseThreadInitThunk
+0x00007FFA3BC6C5B4 (ntdll) RtlUserThreadStart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2a50 -> priority: 1 
+  Thread -> id: 2a6c -> priority: 1 
+  Thread -> id: 2144 -> priority: 1 
+  Thread -> id: 2834 -> priority: 1 
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2ae8 -> priority: 1 
+  Thread -> id: 33c -> priority: 1 
+  Thread -> id: 834 -> priority: 1 
+  Thread -> id: 291c -> priority: 1 
